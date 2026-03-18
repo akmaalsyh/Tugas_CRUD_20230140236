@@ -1,4 +1,4 @@
-package com.example.crud.entity;
+package com.example.crud.model.entity;
 
 import jakarta.persistence.*;
 import jakarta.validation.constraints.NotBlank;
